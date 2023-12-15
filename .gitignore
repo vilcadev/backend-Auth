@@ -4,7 +4,6 @@
 
 mongo/
 .env
-docker-compose.yml
 
 # Logs
 logs
